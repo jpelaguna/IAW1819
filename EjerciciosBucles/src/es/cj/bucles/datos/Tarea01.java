@@ -13,14 +13,13 @@ public class Tarea01 {
 
 		int numero = sc.nextInt();
 
-		for (int i = 1; i <= numero; i+=2) {
-			
+		for (int i = 1; i <= numero; i += 2) {
+
 			resultado = numeros * i;
-			
+
 			System.out.println(resultado);
 
 		}
-		
 
 		sc.close();
 
