@@ -7,9 +7,16 @@ import java.util.Random;
 public class Explicacion {
 
 	public static void main(String[] args) {
+		
+		// los corchetes muestran las dimensiones de la tabla. +3 suele ser inmanejable
+		
 		int tabla[][] = new int[10][6];
 
+		// fila 2, columna 1 = 3
+
 		tabla[2][1] = 3;
+
+		// vector
 
 		int tabla2[] = { 1, 2, 3 };
 
