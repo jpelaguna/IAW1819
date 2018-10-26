@@ -6,7 +6,9 @@ import java.util.Scanner;
 
 public class Ejercicio05 {
 
-	//5.Crear una tabla de n números y desplazarla una posición hacia abajo, es decir, el primero pasa a ser el segundo, el segundo pasa a ser el tercero y así sucesivamente. El último pasa a ser el primero
+	// 5.Crear una tabla de n números y desplazarla una posición hacia abajo, es decir, el primero 
+	// pasa a ser el segundo, el segundo pasa a ser el tercero y así sucesivamente. El último pasa a 
+	// ser el primero
 		
 	private static Scanner sc = new Scanner(System.in);
 	
