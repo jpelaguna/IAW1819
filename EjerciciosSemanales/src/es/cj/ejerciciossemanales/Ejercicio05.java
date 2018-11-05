@@ -19,16 +19,11 @@ public class Ejercicio05 {
 	private static void iniTabla() {
 		
 		for (int i = 0; i < tabla.length; i++) {
-			for (int j = 0; j < tabla[i].length; j++) {
-				tabla[i] = new Random().nextInt(10);
-		
-		
-	}
+			tabla[i] = new Random().nextInt(10);
+		}
 
 	private static void ordenarTabla() {
 }
-
-	for (i)
-		if (repetidos[i] > mayor)
+	if (repetidos[i] > mayor)
 			mayor = repetidos [i];
 	}
